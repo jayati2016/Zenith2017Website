@@ -1,1 +1,2 @@
-# Zenith2017Website
+# ZenithWebsite
+This is the official repository of Zenith Hackathon.
